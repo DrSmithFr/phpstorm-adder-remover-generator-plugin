@@ -8,13 +8,13 @@
     <name>Adder-Remover</name>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="johndaligault@gmail.com" url="mailto:johndaligault@gmail.com">John D.</vendor>
+    <vendor email="johndaligault@gmail.com">John D.</vendor>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-    <h1>Adders/Removers Generator</h1>
+    <h1>Adders/Removers Generator for attributes array/Collection/ArrayCollection</h1>
 
     <p>Now compatible with <i>static fields</i>.</p>
     <p>Now compatible with <i>PHP Typed Property (7.4)</i> and <i>PHP Attribute (8.0)</i>.</p>
