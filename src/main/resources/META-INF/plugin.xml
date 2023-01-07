@@ -5,7 +5,7 @@
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
-    <name>Adder-Remover</name>
+    <name>Adder-Remover v2</name>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor email="johndaligault@gmail.com">John D.</vendor>
@@ -22,10 +22,14 @@
 
     <br><br><br>
 
-    <h5>Based on "Adders/Removers Generator" by "Ruslan Polutsygan"</h5>
+    <h5>Version 2 is based on "Adders/Removers Generator" by "Ruslan Polutsygan"</h5>
     ]]></description>
 
     <change-notes><![CDATA[
+<h2>1.1.3</h2>
+<ul>
+    <li>[fix] Update some metadata for plugins validation</li>
+</ul>
 <h2>1.1.2</h2>
 <ul>
     <li>[fix] Add icon for plugins light theme</li>
